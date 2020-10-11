@@ -875,6 +875,24 @@
     	
     <storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
     	
+    <storageModule moduleId="scannerConfiguration">
+        		
+        <autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+        		
+        <scannerConfigBuildInfo instanceId="0.910961921">
+            			
+            <autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+            		
+        </scannerConfigBuildInfo>
+        		
+        <scannerConfigBuildInfo instanceId="0.910961921.1363900502">
+            			
+            <autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+            		
+        </scannerConfigBuildInfo>
+        	
+    </storageModule>
+    	
     <storageModule moduleId="org.eclipse.cdt.make.core.buildtargets">
         		
         <buildTargets>
@@ -1102,26 +1120,24 @@
                 <runAllBuilders>false</runAllBuilders>
                 			
             </target>
+            			
+            <target name="PlatformIO: Upload FOTA" path="" targetID="org.eclipse.cdt.build.MakeTargetBuilder">
+                				
+                <buildCommand>platformio</buildCommand>
+                				
+                <buildArguments>-f -c eclipse</buildArguments>
+                				
+                <buildTarget>run -t upload --upload-port 192.168.1.183</buildTarget>
+                				
+                <stopOnError>true</stopOnError>
+                				
+                <useDefaultCommand>false</useDefaultCommand>
+                				
+                <runAllBuilders>false</runAllBuilders>
+                			
+            </target>
             		
         </buildTargets>
-        	
-    </storageModule>
-    	
-    <storageModule moduleId="scannerConfiguration">
-        		
-        <autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-        		
-        <scannerConfigBuildInfo instanceId="0.910961921">
-            			
-            <autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-            		
-        </scannerConfigBuildInfo>
-        		
-        <scannerConfigBuildInfo instanceId="0.910961921.1363900502">
-            			
-            <autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-            		
-        </scannerConfigBuildInfo>
         	
     </storageModule>
     
