@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/0.910961921/PATH/delimiter=;
+environment/project/0.910961921/PATH/operation=replace
+environment/project/0.910961921/PATH/value=C\:/Users/parap/.platformio/penv/Scripts;C\:/Program Files (x86)/Common Files/Oracle/Java/javapath;C\:/windows/system32;C\:/windows;C\:/windows/System32/Wbem;C\:/windows/System32/WindowsPowerShell/v1.0/;C\:/windows/System32/OpenSSH/;C\:/Program Files (x86)/NVIDIA Corporation/PhysX/Common;C\:/Program Files/NVIDIA Corporation/NVIDIA NvDLISR;C\:/Program Files/Git/cmd;C\:/MinGW/bin;C\:/Program Files (x86)/Bitvise SSH Client;C\:/Program Files/PuTTY/;C\:/Program Files/SourceGear/Common/DiffMerge/;C\:/Users/parap/.platformio/penv/Scripts;C\:/Users/parap/AppData/Local/Programs/Python/Python38-32/Scripts/;C\:/Users/parap/AppData/Local/Programs/Python/Python38-32/;C\:/Users/parap/AppData/Local/Microsoft/WindowsApps;C\:/Program Files (x86)/GnuWin32/bin;C\:/MinGW/bin;${PathDelimiter}${PATH}
+environment/project/0.910961921/append=true
+environment/project/0.910961921/appendContributed=true
+environment/project/0.910961921.1363900502/PATH/delimiter=;
+environment/project/0.910961921.1363900502/PATH/operation=replace
+environment/project/0.910961921.1363900502/PATH/value=C\:/Users/parap/.platformio/penv/Scripts;C\:/Program Files (x86)/Common Files/Oracle/Java/javapath;C\:/windows/system32;C\:/windows;C\:/windows/System32/Wbem;C\:/windows/System32/WindowsPowerShell/v1.0/;C\:/windows/System32/OpenSSH/;C\:/Program Files (x86)/NVIDIA Corporation/PhysX/Common;C\:/Program Files/NVIDIA Corporation/NVIDIA NvDLISR;C\:/Program Files/Git/cmd;C\:/MinGW/bin;C\:/Program Files (x86)/Bitvise SSH Client;C\:/Program Files/PuTTY/;C\:/Program Files/SourceGear/Common/DiffMerge/;C\:/Users/parap/.platformio/penv/Scripts;C\:/Users/parap/AppData/Local/Programs/Python/Python38-32/Scripts/;C\:/Users/parap/AppData/Local/Programs/Python/Python38-32/;C\:/Users/parap/AppData/Local/Microsoft/WindowsApps;C\:/Program Files (x86)/GnuWin32/bin;C\:/MinGW/bin;${PathDelimiter}${PATH}
+environment/project/0.910961921.1363900502/append=true
+environment/project/0.910961921.1363900502/appendContributed=true
